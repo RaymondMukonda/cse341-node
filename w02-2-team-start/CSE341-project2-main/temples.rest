@@ -1,0 +1,11 @@
+@baseUrl = http://localhost:3000
+
+### 
+GET {{baseUrl}}/
+
+###
+
+GET {{baseUrl}}/temples/4
+
+### 
+GET {{baseUrl}}/temples
